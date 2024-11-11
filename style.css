@@ -1,0 +1,56 @@
+body {
+    width: 100%;
+    background-color: honeydew;
+    font-family: sans-serif;
+}
+
+
+.menu {
+    width: 100%;
+    background-color: rgb(240, 187, 117);
+    margin: auto;
+    padding: 20px;
+    max-width: 1000px;
+    border-radius: 20px;
+}
+
+.menu h2 {
+    text-align: center;
+}
+
+.menu img {
+    margin: auto;
+    padding: 20px;
+    display: block;
+}
+
+h1,
+p,
+a {
+    text-align: center;
+    position: center;
+    color: black;
+}
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+
+.descriription p {
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+.Steps li {
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    position: center;
+    color: black;
+
+}

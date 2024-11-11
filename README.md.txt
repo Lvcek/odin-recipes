@@ -1,0 +1,1 @@
+Trying to obtain odin-project and learn some JS here.
